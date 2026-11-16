@@ -1,0 +1,6 @@
+{
+  "name": "Prakrutam Ayurveda — Botanical Luxury Skincare",
+  "description": "Discover thoughtfully presented Ayurvedic skincare essentials inspired by nature and traditional ingredients from Prakrutam Ayurveda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
